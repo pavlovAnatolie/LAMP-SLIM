@@ -1,5 +1,5 @@
 <?php
-
+/*
 class Database extends mysqli{
  private static $instance= null;
 
@@ -19,4 +19,4 @@ var_dump($hostname);
     }
     return self::$instance;
  }
-}
+}*/
